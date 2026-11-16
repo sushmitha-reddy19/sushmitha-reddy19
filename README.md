@@ -1,3 +1,11 @@
+---
+### 📌 Featured for Surge AI - Senior SWE (RL Environments)
+
+1. **[bug-tracker](https://github.com/sushmitha-reddy19/bug-tracker)** - Production-style tracker + 3 RL Tasks + Rubrics + 6 Tests
+2. **[ai-code-evaluator](https://github.com/sushmitha-reddy19/ai-code-evaluator)** - RL Benchmark Prototype - Evaluator + Rubric + 92 vs 35 Failure Analysis
+
+---
+
 # Sushmitha Reddy
 
 Software Engineer | Building RL Environments & Benchmarks for Agentic Coding
